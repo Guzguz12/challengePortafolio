@@ -1,0 +1,27 @@
+.skills__line{
+    display: flex;
+    flex-wrap: wrap;
+    width: 100vw;
+    justify-content: space-between;
+}
+.skills__box{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: flex-start;
+    padding: 16px;
+    background-color: #fbfbfb;
+    /*background-color: #fbfbfb;*/
+    margin: 22px 0 22px 0;
+    width: 156px;
+    height: 118px;
+}
+.skills__list {
+    margin: 0;
+    padding: 0;
+
+}
+
+
+
+

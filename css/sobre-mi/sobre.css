@@ -1,0 +1,17 @@
+.about
+{
+    margin-top: 3rem;
+    background-color: #e4eeee ;
+}
+.about__container
+{
+    padding: 3% 30% 5% 5%;
+}
+
+.about__paragraph
+{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    color: #464646;
+}

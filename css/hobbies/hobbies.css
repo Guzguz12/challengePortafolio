@@ -1,0 +1,24 @@
+.hobbies__line
+{
+   display: flex;
+   justify-content: space-between;
+   flex-wrap: wrap;
+   width: 100vw;
+}
+.hobbies__box
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: flex-start;
+    padding: 16px;
+    background-color: #fbfbfb;
+    margin: 22px 0 22px 0;
+    width: 156px;
+    height: 118px;
+}
+.hobbies__list
+{
+    margin: 0;
+    padding: 0;
+}
